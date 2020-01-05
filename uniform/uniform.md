@@ -4,7 +4,7 @@
 
 ## Uniform缓存
 
-![uniform_binding_points](/Users/rshang/code/github/iOpenGL/uniform/uniform_binding_points.png)
+![uniform_binding_points](./uniform_binding_points.png)
 
 ### Uniform Buffer绑定到绑定点
 
